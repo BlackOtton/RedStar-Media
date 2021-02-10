@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg
+   version="1.0"
+   x="0.00000000"
+   y="0.00000000"
+   width="106.299210"
+   height="106.299210"
+   viewBox="0 0 30000 30000"
+   id="svg548"
+   sodipodi:version="0.34-pre"
+   sodipodi:docname="/home/david/.themes/eXperience/icons/import_image.svg"
+   sodipodi:docbase="/home/david/.themes/eXperience/icons/"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink">
+  <sodipodi:namedview
+     id="base" />
+  <defs
+     id="defs581" />
+  <g
+     style="font-size:12;"
+     id="Layer1">
+    <defs
+       id="defs550">
+      <linearGradient
+         x1="-17082.0000"
+         y1="-9566.00000"
+         x2="30474.0000"
+         y2="30226.0000"
+         id="id0"
+         gradientUnits="userSpaceOnUse"
+         spreadMethod="pad">
+        <stop
+           style="stop-color:#e5e5e5;stop-opacity:1;"
+           offset="0.00000000"
+           id="stop552" />
+        <stop
+           style="stop-color:#999999;stop-opacity:1;"
+           offset="1.00000000"
+           id="stop553" />
+      </linearGradient>
+      <linearGradient
+         x1="30018.0000"
+         y1="28077.0000"
+         x2="-3032.00000"
+         y2="-4973.00000"
+         id="id1"
+         gradientUnits="userSpaceOnUse"
+         spreadMethod="pad">
+        <stop
+           style="stop-color:#e5e5e5;stop-opacity:1;"
+           offset="0.00000000"
+           id="stop555" />
+        <stop
+           style="stop-color:#ffffff;stop-opacity:1;"
+           offset="1.00000000"
+           id="stop556" />
+      </linearGradient>
+      <linearGradient
+         x1="14417.0000"
+         y1="22675.0000"
+         x2="13756.0000"
+         y2="-6876.00000"
+         id="id2"
+         gradientUnits="userSpaceOnUse"
+         spreadMethod="pad">
+        <stop
+           style="stop-color:#53d7f2;stop-opacity:1;"
+           offset="0.00000000"
+           id="stop558" />
+        <stop
+           style="stop-color:#5cfffa;stop-opacity:1;"
+           offset="1.00000000"
+           id="stop559" />
+      </linearGradient>
+      <linearGradient
+         x1="10405.0000"
+         y1="15095.0000"
+         x2="13367.0000"
+         y2="27494.0000"
+         id="id3"
+         gradientUnits="userSpaceOnUse"
+         spreadMethod="pad">
+        <stop
+           style="stop-color:#ffe500;stop-opacity:1;"
+           offset="0.00000000"
+           id="stop561" />
+        <stop
+           style="stop-color:#ff6600;stop-opacity:1;"
+           offset="1.00000000"
+           id="stop562" />
+      </linearGradient>
+      <linearGradient
+         x1="25666.0000"
+         y1="30316.0000"
+         x2="8250.00000"
+         y2="3526.00000"
+         id="id4"
+         gradientUnits="userSpaceOnUse"
+         spreadMethod="pad">
+        <stop
+           style="stop-color:#122399;stop-opacity:1;"
+           offset="0.00000000"
+           id="stop564" />
+        <stop
+           style="stop-color:#0699dc;stop-opacity:1;"
+           offset="0.52156901"
+           id="stop565" />
+        <stop
+           style="stop-color:#122399;stop-opacity:1;"
+           offset="1.00000000"
+           id="stop566" />
+      </linearGradient>
+    </defs>
+    <path
+       d="M 1607 0 L 28393 0 C 29277 0 30000 558 30000 1240 L 30000 21900 C 30000 22582 29277 23140 28393 23140 L 1607 23140 C 723 23140 0 22582 0 21900 L 0 1240 C 0 558 723 0 1607 0 z "
+       style="fill:url(#id0);"
+       id="path567" />
+    <path
+       d="M 2009 937 L 27991 937 C 28580 937 29062 1301 29062 1746 L 29062 21358 C 29062 21803 28580 22166 27991 22166 L 2009 22166 C 1420 22166 938 21803 938 21358 L 938 1746 C 938 1301 1420 937 2009 937 z "
+       style="fill:url(#id1);"
+       id="path568" />
+    <path
+       d="M 3482 2544 L 26518 2544 C 27033 2544 27456 2967 27456 3482 L 27456 19152 C 27456 19667 27033 20089 26518 20089 L 3482 20089 C 2967 20089 2544 19667 2544 19152 L 2544 3482 C 2544 2967 2967 2544 3482 2544 z "
+       style="fill:url(#id2);"
+       id="path569" />
+    <path
+       d="M 6564 10984 C 7998 10934 9620 13544 11053 13608 C 12771 13685 15037 10870 16755 10773 C 18051 10701 20304 11761 21402 12453 C 23876 13704 24996 15354 27470 16605 L 27446 19299 C 27307 19813 26990 20151 26252 20067 L 3911 20089 C 2981 20195 2517 19776 2520 18831 L 2522 14102 C 3870 13063 4864 11044 6564 10984 z "
+       style="fill:url(#id3);"
+       id="path570" />
+    <path
+       d="M 7553 11746 C 9522 14210 18019 16900 18232 18390 L 6835 19031 C 5958 17107 9654 15669 7553 11746 z "
+       style="fill-opacity:0.180392;"
+       id="path571" />
+    <path
+       d="M 19292 11944 C 23937 13056 24733 16828 27595 17346 L 19547 17933 C 18670 16009 22690 13058 19292 11944 z "
+       style="fill-opacity:0.180392;"
+       id="path572" />
+    <circle
+       cx="18940.000000"
+       cy="6794.000000"
+       r="1756.000000"
+       style="fill:#ffff78;"
+       id="circle573" />
+    <path
+       d="M 3214 3348 L 25848 3348 L 4286 4286 L 3214 19018 L 3214 3348 z "
+       style="fill:#ffffff;"
+       id="path574" />
+    <path
+       d="M 26564 19374 L 3931 19374 L 25493 18436 L 26564 3703 L 26564 19374 z "
+       style="fill-opacity:0.258824;"
+       id="path575" />
+    <path
+       d="M 30000 19903 L 23597 19871 L 23597 12719 L 15604 12719 L 15604 19871 L 9805 19903 L 19903 30000 L 30000 19903 z "
+       style="fill:#0c004a;"
+       id="path576" />
+    <path
+       d="M 22756 20713 C 22813 18334 22756 15940 22756 13560 L 16445 13560 L 16445 20713 L 11817 20713 L 19811 28706 L 27805 20713 C 26128 20713 24431 20656 22756 20713 z "
+       style="fill:url(#id4);"
+       id="path577" />
+    <path
+       d="M 19869 28297 L 18836 27335 C 17999 26445 17084 25510 16323 24665 C 17363 25369 18624 26714 19684 27629 L 25061 22111 L 25709 22121 L 19869 28297 z "
+       style="fill:#130074;"
+       id="path578" />
+    <path
+       d="M 17118 14187 L 21984 14001 L 22403 13766 L 16698 13766 L 16698 20077 L 17118 14187 z "
+       style="fill:#ffffff;"
+       id="path579" />
+  </g>
+</svg>

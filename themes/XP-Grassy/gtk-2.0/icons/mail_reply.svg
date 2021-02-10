@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   x="0"
+   y="0"
+   width="106.299210"
+   height="106.299210"
+   viewBox="0 0 30000 30000"
+   id="svg776"
+   xml:space="preserve">
+  <defs
+     id="defs858">
+    <text
+       id="text561" />
+    <linearGradient
+       id="linearGradient990">
+      <text
+         id="text563" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1.0000;"
+         offset="0"
+         id="stop992" />
+      <text
+         id="text565" />
+      <stop
+         style="stop-color:#72afff;stop-opacity:1.0000;"
+         offset="1"
+         id="stop991" />
+      <text
+         id="text567" />
+    </linearGradient>
+    <text
+       id="text568" />
+    <linearGradient
+       id="linearGradient969">
+      <text
+         id="text570" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.4667;"
+         offset="0"
+         id="stop970" />
+      <text
+         id="text572" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop971" />
+      <text
+         id="text574" />
+    </linearGradient>
+    <text
+       id="text575" />
+    <linearGradient
+       id="linearGradient962">
+      <text
+         id="text577" />
+      <stop
+         style="stop-color:#35d2ff;stop-opacity:1.0000;"
+         offset="0"
+         id="stop964" />
+      <text
+         id="text579" />
+      <stop
+         style="stop-color:#152ad2;stop-opacity:1.0000;"
+         offset="1"
+         id="stop963" />
+      <text
+         id="text581" />
+    </linearGradient>
+    <text
+       id="text582" />
+    <linearGradient
+       id="linearGradient959">
+      <text
+         id="text584" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1.0000;"
+         offset="0"
+         id="stop960" />
+      <text
+         id="text586" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop961" />
+      <text
+         id="text588" />
+    </linearGradient>
+    <text
+       id="text589" />
+    <linearGradient
+       id="linearGradient955">
+      <text
+         id="text591" />
+      <stop
+         style="stop-color:#5987ca;stop-opacity:1.0000;"
+         offset="0"
+         id="stop956" />
+      <text
+         id="text593" />
+      <stop
+         style="stop-color:#a572ff;stop-opacity:1.0000;"
+         offset="1"
+         id="stop957" />
+      <text
+         id="text595" />
+    </linearGradient>
+    <text
+       id="text596" />
+    <defs
+       id="defs837">
+      <text
+         id="text598" />
+      <linearGradient
+         x1="12102"
+         y1="22907"
+         x2="-3799.00000"
+         y2="14488"
+         id="id2"
+         xlink:href="#linearGradient962"
+         gradientUnits="userSpaceOnUse"
+         spreadMethod="pad">
+        <text
+           id="text600" />
+      </linearGradient>
+      <text
+         id="text601" />
+    </defs>
+    <text
+       id="text602" />
+    <radialGradient
+       cx="0.29545465"
+       cy="7.80479237e-3"
+       r="0.75443977"
+       fx="0.29545465"
+       fy="7.80479237e-3"
+       id="radialGradient958"
+       xlink:href="#linearGradient959" />
+    <text
+       id="text604" />
+    <radialGradient
+       cx="10.0807848"
+       cy="14.4395151"
+       r="7.96170902"
+       fx="10.0807848"
+       fy="14.4395151"
+       id="radialGradient965"
+       xlink:href="#linearGradient962"
+       gradientTransform="scale(7.145663e-2,6.546705e-2)" />
+    <text
+       id="text606" />
+    <radialGradient
+       cx="0.33363581"
+       cy="0.12979519"
+       r="0.60892129"
+       fx="0.33363581"
+       fy="0.12979519"
+       id="radialGradient968"
+       xlink:href="#linearGradient969"
+       gradientTransform="scale(0.894147,1.118384)" />
+    <text
+       id="text608" />
+    <radialGradient
+       cx="1.07228577"
+       cy="0.70990282"
+       r="1.47849321"
+       fx="1.07228577"
+       fy="0.70990282"
+       id="radialGradient973"
+       xlink:href="#linearGradient990"
+       gradientTransform="scale(0.908675,1.100504)" />
+    <text
+       id="text610" />
+    <defs
+       id="defs820">
+      <text
+         id="text612" />
+      <linearGradient
+         x1="17637"
+         y1="23234"
+         x2="11583"
+         y2="7255"
+         id="id1"
+         xlink:href="#linearGradient990"
+         gradientUnits="userSpaceOnUse"
+         spreadMethod="pad">
+        <text
+           id="text614" />
+      </linearGradient>
+      <text
+         id="text615" />
+    </defs>
+    <text
+       id="text616" />
+    <linearGradient
+       x1="0.96666652"
+       y1="0.95312500"
+       x2="0.12666667"
+       y2="0.22656249"
+       id="linearGradient993"
+       xlink:href="#linearGradient955" />
+    <text
+       id="text618" />
+    <radialGradient
+       cx="6.30255342e-2"
+       cy="0.30000052"
+       r="0.72840434"
+       fx="6.30255342e-2"
+       fy="0.30000052"
+       id="radialGradient996"
+       xlink:href="#linearGradient959" />
+    <text
+       id="text620" />
+  </defs>
+  <text
+     style="font-size:12.000;"
+     id="text621" />
+  <text
+     style="font-size:12.000;"
+     id="text623" />
+  <path
+     d="M 2559.054 25051.63 L 6696.930 28653.13 L 37501.12 27168.75 L 29685.12 19764.36 L 2559.054 25051.63 z "
+     style="font-size:12.000;fill:url(#radialGradient968);"
+     id="path967" />
+  <text
+     style="font-size:12.000;"
+     id="text625" />
+  <text
+     style="font-size:12.000;"
+     id="text627" />
+  <g
+     transform="translate(134.6871,134.6859)"
+     style="font-size:12.000;"
+     id="g780">
+    <text
+       id="text629" />
+  </g>
+  <text
+     style="font-size:12.000;"
+     id="text630" />
+  <g
+     transform="translate(134.6871,134.6859)"
+     style="font-size:12.000;"
+     id="g783">
+    <text
+       id="text632" />
+  </g>
+  <text
+     style="font-size:12.000;"
+     id="text633" />
+  <g
+     transform="translate(134.6871,134.6859)"
+     style="font-size:12.000;"
+     id="g786">
+    <text
+       id="text635" />
+  </g>
+  <text
+     style="font-size:12.000;"
+     id="text636" />
+  <g
+     transform="translate(134.6871,134.6859)"
+     style="font-size:12.000;"
+     id="g789">
+    <text
+       id="text638" />
+    <g
+       id="g791">
+      <text
+         id="text640" />
+    </g>
+    <text
+       id="text641" />
+  </g>
+  <text
+     style="font-size:12.000;"
+     id="text642" />
+  <g
+     transform="translate(134.6871,134.6859)"
+     style="font-size:12.000;"
+     id="g795">
+    <text
+       id="text644" />
+  </g>
+  <text
+     style="font-size:12.000;"
+     id="text645" />
+  <g
+     transform="translate(134.6871,134.6859)"
+     style="font-size:12.000;"
+     id="g798">
+    <text
+       id="text647" />
+  </g>
+  <text
+     style="font-size:12.000;"
+     id="text648" />
+  <text
+     style="font-size:12.000;"
+     id="text665" />
+  <path
+     d="M 4050.793 4525.889 L 28107.27 1930.044 C 28881.01 1851.533 29637.69 3018.976 29663.86 3975.913 L 29839.05 18803.26 C 29856.12 19448.43 29702.51 19817.09 28924.22 19970.70 L 4094.066 25029.22 C 3175.816 25210.15 2924.349 25048.57 2924.349 24065.46 L 2694.467 6691.232 C 2694.467 5738.844 3229.260 4608.951 4050.793 4525.889 z "
+     style="font-size:12.000;fill:url(#linearGradient993);"
+     id="path830" />
+  <text
+     style="font-size:12.000;"
+     id="text667" />
+  <path
+     d="M 4473.260 8107.441 L 11156.68 13742.11 L 4226.345 22173.27 C 3790.411 22703.61 3672.627 22832.84 3666.128 21795.11 L 3583.064 8531.931 C 3580.371 8101.820 3795.469 7536.010 4473.260 8107.441 z M 4562.759 23320.98 L 11901.55 14194.58 C 15165.64 16642.08 19995.87 16117.17 22897.41 11640.84 L 28097.06 18100.49 C 28617.54 18747.10 28535.16 19031.35 27511.07 19238.35 L 4954.182 23797.74 C 4177.026 23954.77 4156.544 23812.54 4562.759 23320.98 z M 27908.53 4816.754 C 26684.56 6551.358 23403.72 10857.64 23491.33 10966.88 L 28243.46 16749.50 C 28847.30 17484.28 28961.22 17339.28 28947.04 16491.56 L 28749.05 4649.454 C 28739.20 4060.037 28237.55 4350.465 27908.53 4816.754 z M 27488.31 3826.072 L 21656.79 11892.73 C 19127.66 15391.24 14778.39 15459.59 11998.66 13136.02 L 4468.317 6841.393 C 4004.657 6453.818 3658.163 5460.034 4681.096 5348.524 L 27098.02 2921.475 C 27875.18 2837.273 27729.25 3492.785 27488.31 3826.072 z "
+     style="font-size:12.000;fill:url(#radialGradient973);"
+     id="path832" />
+  <text
+     style="font-size:12.000;"
+     id="text669" />
+  <path
+     d="M 9060.687 12283.69 L 9088.687 17942.69 L 15410.69 17942.69 L 15410.69 25008.69 L 9088.687 25008.69 L 9060.687 30134.69 L 134.6871 21208.69 L 9060.687 12283.69 z "
+     style="font-size:12.000;fill:#180094;"
+     id="path847" />
+  <text
+     style="font-size:12.000;"
+     id="text671" />
+  <path
+     d="M 897.7342 21194.45 L 8535.163 13557.02 C 8535.163 13557.02 8538.407 18278.26 8535.163 18378.78 L 8535.163 18380.95 L 8537.325 18380.95 L 14892.24 18476.19 L 14892.24 24506.36 L 8535.163 24411.12 L 8535.163 28831.88 L 897.7342 21194.45 z "
+     style="font-size:12.000;fill:url(#radialGradient965);"
+     id="path849" />
+  <text
+     style="font-size:12.000;"
+     id="text673" />
+  <path
+     d="M 504.8474 21155.00 C 572.1909 21222.35 3642.282 24425.13 4389.283 25097.13 C 3767.283 24178.13 3848.559 20263.86 6146.612 20106.82 C 8392.778 19948.69 7781.699 17948.31 8531.900 15825.22 L 8724.931 12896.20 L 504.8474 21155.00 z "
+     style="font-size:12.000;fill:url(#radialGradient958);"
+     id="path851" />
+  <text
+     style="font-size:12.000;"
+     id="text675" />
+  <path
+     d="M 14526.75 24125.75 L 14690.75 19824.75 L 14898.75 19454.75 L 14898.75 24497.75 L 9320.747 24497.75 L 14526.75 24125.75 z "
+     style="font-size:12.000;fill:#1a1aa9;"
+     id="path853" />
+  <text
+     style="font-size:12.000;"
+     id="text677" />
+  <path
+     d="M 5164.383 5205.165 C 3676.821 5363.916 3838.704 6291.690 4551.365 6890.973 L 7922.960 9726.180 C 10681.54 10262.58 12347.06 9399.979 13670.01 6967.594 C 15397.93 3964.600 22022.38 4438.889 24551.09 3136.224 L 5164.383 5205.165 z "
+     style="font-size:12.000;fill:url(#radialGradient996);"
+     id="path995" />
+  <text
+     style="font-size:12.000;"
+     id="text679" />
+</svg>

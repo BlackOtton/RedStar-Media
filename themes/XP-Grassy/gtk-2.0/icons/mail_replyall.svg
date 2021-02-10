@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   x="0"
+   y="0"
+   width="106.299210"
+   height="106.299210"
+   viewBox="0 0 30000 30000"
+   id="svg776"
+   xml:space="preserve">
+  <defs
+     id="defs858">
+    <text
+       id="text785" />
+    <linearGradient
+       id="linearGradient990">
+      <text
+         id="text787" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1.0000;"
+         offset="0"
+         id="stop992" />
+      <text
+         id="text789" />
+      <stop
+         style="stop-color:#72afff;stop-opacity:1.0000;"
+         offset="1"
+         id="stop991" />
+      <text
+         id="text791" />
+    </linearGradient>
+    <text
+       id="text792" />
+    <linearGradient
+       id="linearGradient969">
+      <text
+         id="text794" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.4667;"
+         offset="0"
+         id="stop970" />
+      <text
+         id="text796" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop971" />
+      <text
+         id="text798" />
+    </linearGradient>
+    <text
+       id="text799" />
+    <linearGradient
+       id="linearGradient962">
+      <text
+         id="text801" />
+      <stop
+         style="stop-color:#35d2ff;stop-opacity:1.0000;"
+         offset="0"
+         id="stop964" />
+      <text
+         id="text803" />
+      <stop
+         style="stop-color:#152ad2;stop-opacity:1.0000;"
+         offset="1"
+         id="stop963" />
+      <text
+         id="text805" />
+    </linearGradient>
+    <text
+       id="text806" />
+    <linearGradient
+       id="linearGradient959">
+      <text
+         id="text808" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1.0000;"
+         offset="0"
+         id="stop960" />
+      <text
+         id="text810" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop961" />
+      <text
+         id="text812" />
+    </linearGradient>
+    <text
+       id="text813" />
+    <linearGradient
+       id="linearGradient955">
+      <text
+         id="text815" />
+      <stop
+         style="stop-color:#5987ca;stop-opacity:1.0000;"
+         offset="0"
+         id="stop956" />
+      <text
+         id="text817" />
+      <stop
+         style="stop-color:#a572ff;stop-opacity:1.0000;"
+         offset="1"
+         id="stop957" />
+      <text
+         id="text819" />
+    </linearGradient>
+    <text
+       id="text820" />
+    <defs
+       id="defs837">
+      <text
+         id="text822" />
+      <linearGradient
+         x1="12102"
+         y1="22907"
+         x2="-3799.00000"
+         y2="14488"
+         id="id2"
+         xlink:href="#linearGradient962"
+         gradientUnits="userSpaceOnUse"
+         spreadMethod="pad">
+        <text
+           id="text824" />
+      </linearGradient>
+      <text
+         id="text825" />
+    </defs>
+    <text
+       id="text826" />
+    <radialGradient
+       cx="0.29545465"
+       cy="7.80479237e-3"
+       r="0.75443977"
+       fx="0.29545465"
+       fy="7.80479237e-3"
+       id="radialGradient958"
+       xlink:href="#linearGradient959" />
+    <text
+       id="text828" />
+    <radialGradient
+       cx="10.0807848"
+       cy="14.4395151"
+       r="7.96170902"
+       fx="10.0807848"
+       fy="14.4395151"
+       id="radialGradient965"
+       xlink:href="#linearGradient962"
+       gradientTransform="scale(7.145663e-2,6.546705e-2)" />
+    <text
+       id="text830" />
+    <radialGradient
+       cx="0.33363581"
+       cy="0.12979519"
+       r="0.60892129"
+       fx="0.33363581"
+       fy="0.12979519"
+       id="radialGradient968"
+       xlink:href="#linearGradient969"
+       gradientTransform="scale(0.894147,1.118384)" />
+    <text
+       id="text832" />
+    <radialGradient
+       cx="1.07228577"
+       cy="0.70990282"
+       r="1.47849321"
+       fx="1.07228577"
+       fy="0.70990282"
+       id="radialGradient973"
+       xlink:href="#linearGradient990"
+       gradientTransform="scale(0.908675,1.100504)" />
+    <text
+       id="text834" />
+    <defs
+       id="defs820">
+      <text
+         id="text836" />
+      <linearGradient
+         x1="17637"
+         y1="23234"
+         x2="11583"
+         y2="7255"
+         id="id1"
+         xlink:href="#linearGradient990"
+         gradientUnits="userSpaceOnUse"
+         spreadMethod="pad">
+        <text
+           id="text838" />
+      </linearGradient>
+      <text
+         id="text839" />
+    </defs>
+    <text
+       id="text840" />
+    <linearGradient
+       x1="0.96666652"
+       y1="0.95312500"
+       x2="0.12666667"
+       y2="0.22656249"
+       id="linearGradient993"
+       xlink:href="#linearGradient955" />
+    <text
+       id="text842" />
+    <radialGradient
+       cx="6.30255342e-2"
+       cy="0.30000052"
+       r="0.72840434"
+       fx="6.30255342e-2"
+       fy="0.30000052"
+       id="radialGradient996"
+       xlink:href="#linearGradient959" />
+    <text
+       id="text844" />
+  </defs>
+  <text
+     style="font-size:12.000;"
+     id="text845" />
+  <text
+     style="font-size:12.000;"
+     id="text847" />
+  <path
+     d="M 2559.054 25487.97 L 6195.605 28653.13 L 33267.71 27348.59 L 26398.66 20841.28 L 2559.054 25487.97 z "
+     style="font-size:12.000;fill:url(#radialGradient968);"
+     id="path967" />
+  <text
+     style="font-size:12.000;"
+     id="text849" />
+  <g
+     transform="translate(134.6871,134.6859)"
+     style="font-size:12.000;"
+     id="g780">
+    <text
+       id="text851" />
+  </g>
+  <text
+     style="font-size:12.000;"
+     id="text852" />
+  <g
+     transform="translate(134.6871,134.6859)"
+     style="font-size:12.000;"
+     id="g783">
+    <text
+       id="text854" />
+  </g>
+  <text
+     style="font-size:12.000;"
+     id="text855" />
+  <g
+     transform="translate(134.6871,134.6859)"
+     style="font-size:12.000;"
+     id="g786">
+    <text
+       id="text857" />
+  </g>
+  <text
+     style="font-size:12.000;"
+     id="text858" />
+  <g
+     transform="translate(134.6871,134.6859)"
+     style="font-size:12.000;"
+     id="g789">
+    <text
+       id="text860" />
+    <g
+       id="g791">
+      <text
+         id="text862" />
+    </g>
+    <text
+       id="text863" />
+  </g>
+  <text
+     style="font-size:12.000;"
+     id="text864" />
+  <g
+     transform="translate(134.6871,134.6859)"
+     style="font-size:12.000;"
+     id="g795">
+    <text
+       id="text866" />
+  </g>
+  <text
+     style="font-size:12.000;"
+     id="text867" />
+  <g
+     transform="translate(3428.573,-4761.909)"
+     style="font-size:12.000;"
+     id="g721">
+    <text
+       id="text869" />
+    <path
+       d="M 2559.054 25487.97 L 6195.605 28653.13 L 33267.71 27348.59 L 26398.66 20841.28 L 2559.054 25487.97 z "
+       style="fill:url(#radialGradient968);"
+       id="path717" />
+    <text
+       id="text871" />
+    <path
+       d="M 3870.061 7449.031 L 25011.97 5167.687 C 25691.97 5098.688 26356.97 6124.688 26379.97 6965.688 L 26533.94 19996.63 C 26548.94 20563.63 26413.94 20887.63 25729.94 21022.63 L 3908.092 25468.28 C 3101.092 25627.28 2880.092 25485.28 2880.092 24621.28 L 2678.061 9352.031 C 2678.061 8515.030 3148.061 7522.030 3870.061 7449.031 z "
+       style="fill:url(#linearGradient993);"
+       id="path718" />
+    <text
+       id="text873" />
+    <path
+       d="M 4241.344 10596.66 L 10115.03 15548.66 L 4024.344 22958.34 C 3641.226 23424.43 3537.712 23538.00 3532 22626.00 L 3459 10969.72 C 3456.633 10591.72 3645.671 10094.46 4241.344 10596.66 z M 4320.000 23967.00 L 10769.66 15946.31 C 13638.29 18097.28 17883.31 17635.97 20433.31 13701.97 L 25003.00 19379.00 C 25460.42 19947.27 25388.02 20197.08 24488.00 20379.00 L 4664.000 24386.00 C 3981 24524.00 3963 24399.00 4320.000 23967.00 z M 24837.31 7704.656 C 23761.63 9229.104 20878.28 13013.66 20955.28 13109.66 L 25131.66 18191.69 C 25662.34 18837.45 25762.46 18710.01 25750.00 17965.00 L 25576.00 7557.626 C 25567.34 7039.620 25126.47 7294.861 24837.31 7704.656 z M 24468.00 6834.001 L 19343.00 13923.34 C 17120.29 16997.99 13297.95 17058.06 10855 15016 L 4237.000 9484 C 3829.515 9143.382 3525 8270 4424.000 8172.000 L 24125.00 6039.000 C 24808.00 5965.000 24679.75 6541.093 24468.00 6834.001 z "
+       style="fill:url(#radialGradient973);"
+       id="path719" />
+    <text
+       id="text875" />
+    <path
+       d="M 4848.734 8046.009 C 3541.398 8185.527 3683.668 9000.896 4309.986 9527.573 L 7273.095 12019.28 C 9697.463 12490.69 11161.19 11732.60 12323.86 9594.911 C 13842.43 6955.745 19664.30 7372.572 21886.64 6227.731 L 4848.734 8046.009 z "
+       style="fill:url(#radialGradient996);"
+       id="path720" />
+    <text
+       id="text877" />
+  </g>
+  <text
+     style="font-size:12.000;"
+     id="text878" />
+  <g
+     transform="translate(134.6871,134.6859)"
+     style="font-size:12.000;"
+     id="g798">
+    <text
+       id="text880" />
+  </g>
+  <text
+     style="font-size:12.000;"
+     id="text881" />
+  <path
+     d="M 3870.061 7449.031 L 25011.97 5167.687 C 25691.97 5098.688 26356.97 6124.688 26379.97 6965.688 L 26533.94 19996.63 C 26548.94 20563.63 26413.94 20887.63 25729.94 21022.63 L 3908.092 25468.28 C 3101.092 25627.28 2880.092 25485.28 2880.092 24621.28 L 2678.061 9352.031 C 2678.061 8515.030 3148.061 7522.030 3870.061 7449.031 z "
+     style="font-size:12.000;fill:url(#linearGradient993);"
+     id="path830" />
+  <text
+     style="font-size:12.000;"
+     id="text883" />
+  <path
+     d="M 4241.344 10596.66 L 10115.03 15548.66 L 4024.344 22958.34 C 3641.226 23424.43 3537.712 23538.00 3532 22626.00 L 3459 10969.72 C 3456.633 10591.72 3645.671 10094.46 4241.344 10596.66 z M 4320.000 23967.00 L 10769.66 15946.31 C 13638.29 18097.28 17883.31 17635.97 20433.31 13701.97 L 25003.00 19379.00 C 25460.42 19947.27 25388.02 20197.08 24488.00 20379.00 L 4664.000 24386.00 C 3981 24524.00 3963 24399.00 4320.000 23967.00 z M 24837.31 7704.656 C 23761.63 9229.104 20878.28 13013.66 20955.28 13109.66 L 25131.66 18191.69 C 25662.34 18837.45 25762.46 18710.01 25750.00 17965.00 L 25576.00 7557.626 C 25567.34 7039.620 25126.47 7294.861 24837.31 7704.656 z M 24468.00 6834.001 L 19343.00 13923.34 C 17120.29 16997.99 13297.95 17058.06 10855 15016 L 4237.000 9484 C 3829.515 9143.382 3525 8270 4424.000 8172.000 L 24125.00 6039.000 C 24808.00 5965.000 24679.75 6541.093 24468.00 6834.001 z "
+     style="font-size:12.000;fill:url(#radialGradient973);"
+     id="path832" />
+  <text
+     style="font-size:12.000;"
+     id="text885" />
+  <path
+     d="M 9060.687 12283.69 L 9088.687 17942.69 L 15410.69 17942.69 L 15410.69 25008.69 L 9088.687 25008.69 L 9060.687 30134.69 L 134.6871 21208.69 L 9060.687 12283.69 z "
+     style="font-size:12.000;fill:#180094;"
+     id="path847" />
+  <text
+     style="font-size:12.000;"
+     id="text887" />
+  <path
+     d="M 897.7342 21194.45 L 8535.163 13557.02 C 8535.163 13557.02 8538.407 18278.26 8535.163 18378.78 L 8535.163 18380.95 L 8537.325 18380.95 L 14892.24 18476.19 L 14892.24 24506.36 L 8535.163 24411.12 L 8535.163 28831.88 L 897.7342 21194.45 z "
+     style="font-size:12.000;fill:url(#radialGradient965);"
+     id="path849" />
+  <text
+     style="font-size:12.000;"
+     id="text889" />
+  <path
+     d="M 504.8474 21155.00 C 572.1909 21222.35 3642.282 24425.13 4389.283 25097.13 C 3767.283 24178.13 3848.559 20263.86 6146.612 20106.82 C 8392.778 19948.69 7781.699 17948.31 8531.900 15825.22 L 8724.931 12896.20 L 504.8474 21155.00 z "
+     style="font-size:12.000;fill:url(#radialGradient958);"
+     id="path851" />
+  <text
+     style="font-size:12.000;"
+     id="text891" />
+  <path
+     d="M 14526.75 24125.75 L 14690.75 19824.75 L 14898.75 19454.75 L 14898.75 24497.75 L 9320.747 24497.75 L 14526.75 24125.75 z "
+     style="font-size:12.000;fill:#1a1aa9;"
+     id="path853" />
+  <text
+     style="font-size:12.000;"
+     id="text893" />
+  <path
+     d="M 4848.734 8046.009 C 3541.398 8185.527 3683.668 9000.896 4309.986 9527.573 L 7273.095 12019.28 C 9697.463 12490.69 11161.19 11732.60 12323.86 9594.911 C 13842.43 6955.745 19664.30 7372.572 21886.64 6227.731 L 4848.734 8046.009 z "
+     style="font-size:12.000;fill:url(#radialGradient996);"
+     id="path995" />
+  <text
+     style="font-size:12.000;"
+     id="text895" />
+</svg>

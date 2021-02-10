@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Linux XP Grassy
+Type=X-GNOME-Metatheme
+Comment=Default Linux XP theme
+
+[X-GNOME-Metatheme]
+GtkTheme=XP-Grassy
+MetacityTheme=XP-Grassy
+IconTheme=Grassy-Icons

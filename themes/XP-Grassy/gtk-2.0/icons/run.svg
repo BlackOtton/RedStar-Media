@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Generator: Adobe Illustrator 11.0, SVG Export Plug-In . SVG Version: 6.0.0 Build 78)  -->
+<svg
+   version="1.0"
+   x="0"
+   y="0"
+   width="48.000000pt"
+   height="48.000000pt"
+   id="svg998"
+   sodipodi:version="0.32"
+   sodipodi:docname="run.svg"
+   sodipodi:docbase="/home/nightd/Desktop/MARKET/ICONS/km_icons/Icons Main SVG v.2"
+   inkscape:version="0.40"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:xlink="http://www.w3.org/1999/xlink">
+  <metadata
+     id="metadata65">
+    <rdf:RDF
+       id="RDF66">
+      <cc:Work
+         rdf:about=""
+         id="Work67">
+        <dc:format
+           id="format68">image/svg+xml</dc:format>
+        <dc:type
+           id="type70"
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.4732669"
+     inkscape:cx="93.056374"
+     inkscape:cy="33.033517"
+     inkscape:window-width="1022"
+     inkscape:window-height="718"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:current-layer="svg998" />
+  <defs
+     id="defs1000">
+    <linearGradient
+       id="XMLID_6_"
+       gradientUnits="userSpaceOnUse"
+       x1="58.6719"
+       y1="61.2607"
+       x2="63.6721"
+       y2="-3.2414"
+       gradientTransform="matrix(1 0 -0.2191 1 65.0726 0)">
+      <stop
+         offset="0"
+         style="stop-color:#9BB5F0"
+         id="stop95" />
+      <stop
+         offset="0.2251"
+         style="stop-color:#98B2EF"
+         id="stop97" />
+      <stop
+         offset="0.4059"
+         style="stop-color:#8EAAEB"
+         id="stop99" />
+      <stop
+         offset="0.5713"
+         style="stop-color:#7D9DE5"
+         id="stop101" />
+      <stop
+         offset="0.7276"
+         style="stop-color:#6589DC"
+         id="stop103" />
+      <stop
+         offset="0.876"
+         style="stop-color:#4771D0"
+         id="stop105" />
+      <stop
+         offset="1"
+         style="stop-color:#2757C4"
+         id="stop107" />
+      <midPointStop
+         offset="0"
+         style="stop-color:#9BB5F0"
+         id="midPointStop109" />
+      <midPointStop
+         offset="0.75"
+         style="stop-color:#9BB5F0"
+         id="midPointStop111" />
+      <midPointStop
+         offset="1"
+         style="stop-color:#2757C4"
+         id="midPointStop113" />
+    </linearGradient>
+    <linearGradient
+       id="XMLID_7_"
+       gradientUnits="userSpaceOnUse"
+       x1="41.2227"
+       y1="83.3809"
+       x2="86.2063"
+       y2="5.4926"
+       gradientTransform="matrix(1 0 -0.2191 1 65.0726 0)">
+      <stop
+         offset="0"
+         style="stop-color:#FEFEFE"
+         id="stop120" />
+      <stop
+         offset="0.3617"
+         style="stop-color:#FBFBFB"
+         id="stop122" />
+      <stop
+         offset="0.6521"
+         style="stop-color:#F1F1F1"
+         id="stop124" />
+      <stop
+         offset="0.917"
+         style="stop-color:#E0E0E0"
+         id="stop126" />
+      <stop
+         offset="1"
+         style="stop-color:#D9D9D9"
+         id="stop128" />
+      <midPointStop
+         offset="0"
+         style="stop-color:#FEFEFE"
+         id="midPointStop130" />
+      <midPointStop
+         offset="0.75"
+         style="stop-color:#FEFEFE"
+         id="midPointStop132" />
+      <midPointStop
+         offset="1"
+         style="stop-color:#D9D9D9"
+         id="midPointStop134" />
+    </linearGradient>
+    <linearGradient
+       id="XMLID_8_"
+       gradientUnits="userSpaceOnUse"
+       x1="109.4893"
+       y1="11.1992"
+       x2="110.0346"
+       y2="4.1642"
+       gradientTransform="matrix(1 0 -0.2191 1 65.0726 0)">
+      <stop
+         offset="0"
+         style="stop-color:#FEDE58"
+         id="stop141" />
+      <stop
+         offset="0.2524"
+         style="stop-color:#FEDB55"
+         id="stop143" />
+      <stop
+         offset="0.4552"
+         style="stop-color:#FED44B"
+         id="stop145" />
+      <stop
+         offset="0.6406"
+         style="stop-color:#FEC63A"
+         id="stop147" />
+      <stop
+         offset="0.8158"
+         style="stop-color:#FFB422"
+         id="stop149" />
+      <stop
+         offset="0.9823"
+         style="stop-color:#FF9C04"
+         id="stop151" />
+      <stop
+         offset="1"
+         style="stop-color:#FF9900"
+         id="stop153" />
+      <midPointStop
+         offset="0"
+         style="stop-color:#FEDE58"
+         id="midPointStop155" />
+      <midPointStop
+         offset="0.75"
+         style="stop-color:#FEDE58"
+         id="midPointStop157" />
+      <midPointStop
+         offset="1"
+         style="stop-color:#FF9900"
+         id="midPointStop159" />
+    </linearGradient>
+    <linearGradient
+       id="XMLID_9_"
+       gradientUnits="userSpaceOnUse"
+       x1="96.9863"
+       y1="11.1992"
+       x2="97.5317"
+       y2="4.1642"
+       gradientTransform="matrix(1 0 -0.2191 1 65.0726 0)">
+      <stop
+         offset="0"
+         style="stop-color:#FF1A00"
+         id="stop166" />
+      <stop
+         offset="0.2792"
+         style="stop-color:#FC1900"
+         id="stop168" />
+      <stop
+         offset="0.5035"
+         style="stop-color:#F21500"
+         id="stop170" />
+      <stop
+         offset="0.7086"
+         style="stop-color:#E10F00"
+         id="stop172" />
+      <stop
+         offset="0.9013"
+         style="stop-color:#C90600"
+         id="stop174" />
+      <stop
+         offset="1"
+         style="stop-color:#BA0000"
+         id="stop176" />
+      <midPointStop
+         offset="0"
+         style="stop-color:#FF1A00"
+         id="midPointStop178" />
+      <midPointStop
+         offset="0.75"
+         style="stop-color:#FF1A00"
+         id="midPointStop180" />
+      <midPointStop
+         offset="1"
+         style="stop-color:#BA0000"
+         id="midPointStop182" />
+    </linearGradient>
+    <linearGradient
+       id="XMLID_10_"
+       gradientUnits="userSpaceOnUse"
+       x1="59.0981"
+       y1="73.2988"
+       x2="59.0981"
+       y2="55.5153"
+       gradientTransform="matrix(1 0 -0.2191 1 65.0726 0)">
+      <stop
+         offset="0"
+         style="stop-color:#FEFEFE"
+         id="stop191" />
+      <stop
+         offset="0.2517"
+         style="stop-color:#F6F6F6"
+         id="stop193" />
+      <stop
+         offset="0.6337"
+         style="stop-color:#E1E1E1"
+         id="stop195" />
+      <stop
+         offset="1"
+         style="stop-color:#C7C7C7"
+         id="stop197" />
+      <midPointStop
+         offset="0"
+         style="stop-color:#FEFEFE"
+         id="midPointStop199" />
+      <midPointStop
+         offset="0.6158"
+         style="stop-color:#FEFEFE"
+         id="midPointStop201" />
+      <midPointStop
+         offset="1"
+         style="stop-color:#C7C7C7"
+         id="midPointStop203" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_10_"
+       id="linearGradient1131"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.000000,0.000000,-0.219100,1.000000,65.07260,2.900458e-14)"
+       x1="59.0981"
+       y1="73.2988"
+       x2="59.0981"
+       y2="55.5153" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_9_"
+       id="linearGradient1132"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.302500,0.000000,-6.627775e-2,0.302500,22.18252,17.74717)"
+       x1="96.9863"
+       y1="11.1992"
+       x2="97.5317"
+       y2="4.1642" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_8_"
+       id="linearGradient1133"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.302500,0.000000,-6.627775e-2,0.302500,22.18252,17.74717)"
+       x1="109.4893"
+       y1="11.1992"
+       x2="110.0346"
+       y2="4.1642" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_7_"
+       id="linearGradient1134"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.302500,0.000000,-6.627775e-2,0.302500,22.18252,17.74717)"
+       x1="41.2227"
+       y1="83.3809"
+       x2="86.2063"
+       y2="5.4926" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_6_"
+       id="linearGradient1135"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.302500,0.000000,-6.627775e-2,0.302500,22.18252,17.74717)"
+       x1="58.6719"
+       y1="61.2607"
+       x2="63.6721"
+       y2="-3.2414" />
+  </defs>
+  <path
+     d="M 52.595699,43.156565 C 52.428114,43.920377 51.673679,44.539595 50.909866,44.539595 L 17.995448,44.539595 C 17.231938,44.539595 16.748241,43.920377 16.915523,43.156565 L 22.147261,19.280845 C 22.314543,18.517637 23.069583,17.898420 23.833093,17.898420 L 56.747512,17.898420 C 57.511325,17.898420 57.995022,18.517637 57.827437,19.280845 L 52.595699,43.156565 z "
+     id="path116"
+     style="fill:url(#linearGradient1135);stroke:#2b57b2"
+     inkscape:export-filename="/home/nightd/Desktop/MARKET/ICONS/km_icons/Icons Main SVG v.2/exec.png"
+     inkscape:export-xdpi="72.000130"
+     inkscape:export-ydpi="72.000130" />
+  <path
+     d="M 51.528479,42.056977 C 51.373296,42.764222 50.674219,43.337762 49.966369,43.337762 L 19.465296,43.337762 C 18.757748,43.337762 18.309443,42.764222 18.464626,42.056977 L 22.367783,24.244870 C 22.522966,23.537020 23.222648,22.963480 23.930196,22.963480 L 54.430966,22.963480 C 55.138816,22.963480 55.586820,23.537020 55.431940,24.244870 L 51.528479,42.056977 z "
+     id="path137"
+     style="fill:url(#linearGradient1134);stroke:#ffffff"
+     inkscape:export-filename="/home/nightd/Desktop/MARKET/ICONS/km_icons/Icons Main SVG v.2/exec.png"
+     inkscape:export-xdpi="72.000130"
+     inkscape:export-ydpi="72.000130" />
+  <path
+     knockout="Off"
+     d="M 53.445421,19.531920 C 53.500779,19.279030 53.751249,19.073330 54.004139,19.073330 L 56.106212,19.073330 C 56.359405,19.073330 56.519730,19.279030 56.464372,19.531920 L 56.003665,21.633992 C 55.948005,21.887487 55.698140,22.092582 55.444645,22.092582 L 53.342874,22.092582 C 53.089681,22.092582 52.929659,21.887487 52.985016,21.633992 L 53.445421,19.531920 z "
+     id="path162"
+     style="fill:url(#linearGradient1133);stroke:#ffffff"
+     inkscape:export-filename="/home/nightd/Desktop/MARKET/ICONS/km_icons/Icons Main SVG v.2/exec.png"
+     inkscape:export-xdpi="72.000130"
+     inkscape:export-ydpi="72.000130" />
+  <path
+     knockout="Off"
+     d="M 49.663566,19.531920 C 49.718924,19.279030 49.969394,19.073330 50.222284,19.073330 L 52.324356,19.073330 C 52.577851,19.073330 52.737874,19.279030 52.682516,19.531920 L 52.221809,21.633992 C 52.166149,21.887487 51.916284,22.092582 51.662789,22.092582 L 49.561019,22.092582 C 49.307826,22.092582 49.147804,21.887487 49.203161,21.633992 L 49.663566,19.531920 z "
+     id="path185"
+     style="fill:url(#linearGradient1132);stroke:#ffffff"
+     inkscape:export-filename="/home/nightd/Desktop/MARKET/ICONS/km_icons/Icons Main SVG v.2/exec.png"
+     inkscape:export-xdpi="72.000130"
+     inkscape:export-ydpi="72.000130" />
+  <polygon
+     points="62.685000,72.777000 153.76700,72.777000 157.68200,54.906000 66.600000,54.906000 62.685000,72.777000 "
+     id="polygon206"
+     style="fill:url(#linearGradient1131);stroke:#000000"
+     inkscape:export-filename="/home/nightd/Desktop/MARKET/ICONS/km_icons/Icons Main SVG v.2/exec.png"
+     inkscape:export-xdpi="72.000130"
+     inkscape:export-ydpi="72.000130"
+     transform="matrix(0.302500,0.000000,0.000000,0.302500,2.498065,17.74717)" />
+  <line
+     knockout="Off"
+     x1="23.604101"
+     y1="38.641449"
+     x2="24.297731"
+     y2="35.476997"
+     id="line208"
+     style="fill:none;stroke:#000000;stroke-width:0.60500002"
+     inkscape:export-filename="/home/nightd/Desktop/MARKET/ICONS/km_icons/Icons Main SVG v.2/exec.png"
+     inkscape:export-xdpi="72.000130"
+     inkscape:export-ydpi="72.000130" />
+  <line
+     knockout="Off"
+     x1="24.235418"
+     y1="27.096235"
+     x2="46.984016"
+     y2="27.096235"
+     id="line211"
+     style="fill:none;stroke:#666666;stroke-width:0.90749997"
+     inkscape:export-filename="/home/nightd/Desktop/MARKET/ICONS/km_icons/Icons Main SVG v.2/exec.png"
+     inkscape:export-xdpi="72.000130"
+     inkscape:export-ydpi="72.000130" />
+  <line
+     knockout="Off"
+     x1="23.673372"
+     y1="29.661131"
+     x2="40.976978"
+     y2="29.661131"
+     id="line213"
+     style="fill:none;stroke:#666666;stroke-width:0.90749997"
+     inkscape:export-filename="/home/nightd/Desktop/MARKET/ICONS/km_icons/Icons Main SVG v.2/exec.png"
+     inkscape:export-xdpi="72.000130"
+     inkscape:export-ydpi="72.000130" />
+  <line
+     knockout="Off"
+     x1="19.540012"
+     y1="21.699030"
+     x2="3.2543194"
+     y2="21.699030"
+     id="line218"
+     style="fill:none;stroke:#999999;stroke-width:1.5125000;stroke-linecap:round;stroke-linejoin:round"
+     inkscape:export-filename="/home/nightd/Desktop/MARKET/ICONS/km_icons/Icons Main SVG v.2/exec.png"
+     inkscape:export-xdpi="72.000130"
+     inkscape:export-ydpi="72.000130" />
+  <line
+     knockout="Off"
+     x1="15.210937"
+     y1="34.392235"
+     x2="3.2543194"
+     y2="34.392235"
+     id="line220"
+     style="fill:none;stroke:#999999;stroke-width:1.5125000;stroke-linecap:round;stroke-linejoin:round"
+     inkscape:export-filename="/home/nightd/Desktop/MARKET/ICONS/km_icons/Icons Main SVG v.2/exec.png"
+     inkscape:export-xdpi="72.000130"
+     inkscape:export-ydpi="72.000130" />
+  <line
+     knockout="Off"
+     x1="16.766388"
+     y1="28.045782"
+     x2="3.2543194"
+     y2="28.045782"
+     id="line222"
+     style="fill:none;stroke:#999999;stroke-width:1.5125000;stroke-linecap:round;stroke-linejoin:round"
+     inkscape:export-filename="/home/nightd/Desktop/MARKET/ICONS/km_icons/Icons Main SVG v.2/exec.png"
+     inkscape:export-xdpi="72.000130"
+     inkscape:export-ydpi="72.000130" />
+  <line
+     knockout="Off"
+     x1="13.664250"
+     y1="40.738983"
+     x2="3.2543194"
+     y2="40.738983"
+     id="line224"
+     style="fill:none;stroke:#999999;stroke-width:1.5125000;stroke-linecap:round;stroke-linejoin:round"
+     inkscape:export-filename="/home/nightd/Desktop/MARKET/ICONS/km_icons/Icons Main SVG v.2/exec.png"
+     inkscape:export-xdpi="72.000130"
+     inkscape:export-ydpi="72.000130" />
+</svg>

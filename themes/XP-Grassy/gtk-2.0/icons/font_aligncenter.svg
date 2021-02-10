@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   x="0"
+   y="0"
+   width="106.299210"
+   height="106.299210"
+   viewBox="0 0 30000 30000"
+   id="svg607">
+  <defs
+     id="defs640">
+    <linearGradient
+       id="linearGradient774">
+      <stop
+         style="stop-color:#00008f;stop-opacity:1.0000;"
+         offset="0"
+         id="stop776" />
+      <stop
+         style="stop-color:#004ffa;stop-opacity:1.0000;"
+         offset="1"
+         id="stop775" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient770">
+      <stop
+         style="stop-color:#a6bdff;stop-opacity:1.0000;"
+         offset="0"
+         id="stop772" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1.0000;"
+         offset="1"
+         id="stop771" />
+    </linearGradient>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       id="linearGradient1669"
+       gradientUnits="objectBoundingBox"
+       spreadMethod="pad">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.9937;"
+         offset="0"
+         id="stop1670" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop1671" />
+    </linearGradient>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       id="linearGradient741"
+       gradientUnits="objectBoundingBox"
+       spreadMethod="pad">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1.0000;"
+         offset="0"
+         id="stop743" />
+      <stop
+         style="stop-color:#cacac5;stop-opacity:1.0000;"
+         offset="1"
+         id="stop742" />
+    </linearGradient>
+    <linearGradient
+       x1="0.34617046"
+       y1="-2.66357899"
+       x2="-0.20449786"
+       y2="-2.66354036"
+       id="linearGradient616"
+       xlink:href="#linearGradient770"
+       gradientTransform="scale(3.088518,0.323780)" />
+    <radialGradient
+       cx="0.98437500"
+       cy="0.95312512"
+       r="2.24071717"
+       fx="0.98437500"
+       fy="0.95312512"
+       id="radialGradient617"
+       xlink:href="#linearGradient741" />
+    <radialGradient
+       cx="3.87599990e-2"
+       cy="2.12769993e-2"
+       r="0.73557401"
+       fx="3.87599990e-2"
+       fy="2.12769993e-2"
+       id="radialGradient618"
+       xlink:href="#linearGradient1669" />
+    <linearGradient
+       x1="0.40899459"
+       y1="5.06278467"
+       x2="-4.55030203e-2"
+       y2="5.06281614"
+       id="linearGradient613"
+       xlink:href="#linearGradient770"
+       gradientTransform="scale(2.560725,0.390514)" />
+    <linearGradient
+       x1="0.30737492"
+       y1="17.0630112"
+       x2="-0.32254657"
+       y2="17.0630550"
+       id="linearGradient614"
+       xlink:href="#linearGradient770"
+       gradientTransform="scale(3.549096,0.281762)" />
+    <linearGradient
+       x1="0.43749747"
+       y1="18.1306915"
+       x2="1.62036065e-2"
+       y2="18.1307220"
+       id="linearGradient615"
+       xlink:href="#linearGradient770"
+       gradientUnits="objectBoundingBox"
+       gradientTransform="scale(2.373649,0.421292)" />
+    <linearGradient
+       x1="0.99697900"
+       y1="0.65349501"
+       x2="-0.30211499"
+       y2="0.13373899"
+       id="linearGradient645"
+       xlink:href="#linearGradient774" />
+    <linearGradient
+       id="linearGradient646"
+       xlink:href="#linearGradient774" />
+  </defs>
+  <path
+     d="M 3794 1849.999 L 26206.00 1849.999 C 27276.00 1849.999 28150.00 2723.999 28150.00 3793.999 L 28150.00 26206.00 C 28150.00 27276.00 27276.00 28150.00 26206.00 28150.00 L 3794 28150.00 C 2724 28150.00 1850 27276.00 1850 26206.00 L 1850 3793.999 C 1850 2723.999 2724 1849.999 3794 1849.999 z "
+     style="font-size:12.000;fill:#8b8d8d;"
+     id="path631" />
+  <path
+     d="M 3975 2676.999 L 26025.00 2676.999 C 26739.00 2676.999 27323.00 3260.999 27323.00 3974.999 L 27323.00 26025.00 C 27323.00 26739.00 26739.00 27323.00 26025.00 27323.00 L 3975 27323.00 C 3261 27323.00 2677 26739.00 2677 26025.00 L 2677 3974.999 C 2677 3260.999 3261 2676.999 3975 2676.999 z "
+     style="font-size:12.000;fill:url(#radialGradient617);"
+     id="path632" />
+  <text
+     x="48075.0078"
+     y="5088.66162"
+     transform="scale(0.746696,0.746696)"
+     style="font-size:12.000;fill:url(#linearGradient646);fill-rule:evenodd;"
+     id="text611" />
+  <text
+     x="48075.0078"
+     y="5088.66162"
+     transform="scale(0.746696,0.746696)"
+     style="font-size:12.000;fill:url(#linearGradient646);fill-rule:evenodd;"
+     id="text642" />
+  <text
+     x="48075.0078"
+     y="5088.66797"
+     transform="scale(0.746696,0.746696)"
+     style="font-size:12.000;fill:url(#linearGradient646);"
+     id="text644" />
+  <g
+     transform="matrix(0.746696,0,0,0.746696,8057.974,3799.689)"
+     style="font-size:12.000;fill:url(#linearGradient646);"
+     id="g645">
+    <text
+       id="text646" />
+    <rect
+       width="11021"
+       height="3808.00000"
+       x="3721.00000"
+       y="9971"
+       id="rect647" />
+    <text
+       id="text648" />
+  </g>
+  <text
+     x="48075.0078"
+     y="5088.66797"
+     transform="scale(0.746696,0.746696)"
+     style="font-size:12.000;fill:url(#linearGradient646);"
+     id="text649" />
+  <text
+     x="48075.0078"
+     y="5088.66797"
+     transform="scale(0.746696,0.746696)"
+     style="font-size:12.000;fill:url(#linearGradient646);"
+     id="text651" />
+  <g
+     transform="matrix(0.746696,0,0,0.746696,3753.268,3799.689)"
+     style="font-size:12.000;fill:url(#linearGradient646);"
+     id="g652">
+    <text
+       id="text653" />
+    <rect
+       width="22661"
+       height="3808.00000"
+       x="3666.00000"
+       y="3721.00000"
+       id="rect654" />
+    <text
+       id="text655" />
+  </g>
+  <text
+     x="48075.0078"
+     y="5088.66797"
+     transform="scale(0.746696,0.746696)"
+     style="font-size:12.000;fill:url(#linearGradient646);"
+     id="text656" />
+  <text
+     x="48075.0078"
+     y="5088.66797"
+     transform="scale(0.746696,0.746696)"
+     style="font-size:12.000;fill:url(#linearGradient646);"
+     id="text658" />
+  <g
+     transform="matrix(0.746696,0,0,0.746696,4818.803,3799.689)"
+     style="font-size:12.000;fill:url(#linearGradient646);"
+     id="g659">
+    <text
+       id="text660" />
+    <rect
+       width="19697"
+       height="3808.00000"
+       x="3721.00000"
+       y="16221"
+       id="rect661" />
+    <text
+       id="text662" />
+  </g>
+  <text
+     x="48075.0078"
+     y="5088.66797"
+     transform="scale(0.746696,0.746696)"
+     style="font-size:12.000;fill:url(#linearGradient646);"
+     id="text663" />
+  <text
+     x="48075.0078"
+     y="5088.66797"
+     transform="scale(0.746696,0.746696)"
+     style="font-size:12.000;fill:url(#linearGradient646);"
+     id="text665" />
+  <g
+     transform="matrix(0.746696,0,0,0.746696,6951.739,3799.689)"
+     style="font-size:12.000;fill:url(#linearGradient646);"
+     id="g666">
+    <text
+       id="text667" />
+    <rect
+       width="13984"
+       height="3798.00000"
+       x="3721.00000"
+       y="22482"
+       id="rect668" />
+    <text
+       id="text669" />
+  </g>
+  <text
+     x="48075.0078"
+     y="5088.66797"
+     transform="scale(0.746696,0.746696)"
+     style="font-size:12.000;fill:url(#linearGradient646);"
+     id="text670" />
+  <text
+     x="48075.0078"
+     y="5088.66797"
+     transform="scale(0.746696,0.746696)"
+     style="font-size:12.000;fill:url(#linearGradient646);"
+     id="text672" />
+  <text
+     x="48075.0078"
+     y="5088.66162"
+     transform="scale(0.746696,0.746696)"
+     style="font-size:12.000;fill:url(#linearGradient646);fill-rule:evenodd;"
+     id="text673" />
+  <path
+     d="M 3975 2677.001 L 26025.00 2677.001 C 26739.00 2677.001 27323.00 3261.001 27323.00 3975 C 25608.71 9308.335 21991.50 8764.117 11213.10 10846.80 C 6842.086 11587.96 8581.764 19977.10 2677 23644.05 L 2677 3975 C 2677 3261.001 3261 2677.001 3975 2677.001 z "
+     style="font-size:12.000;fill:url(#radialGradient618);"
+     id="path1668" />
+  <rect
+     width="7034.62305"
+     height="1648.70471"
+     x="11433.7812"
+     y="11842.3486"
+     style="font-size:12.000;fill:url(#linearGradient614);"
+     id="rect650" />
+  <rect
+     width="15726.9111"
+     height="1648.70471"
+     x="7087.63770"
+     y="7175.50000"
+     style="font-size:12.000;fill:url(#linearGradient615);"
+     id="rect657" />
+  <rect
+     width="13512.9570"
+     height="1648.70471"
+     x="8194.61523"
+     y="16509.1992"
+     style="font-size:12.000;fill:url(#linearGradient613);"
+     id="rect664" />
+  <rect
+     width="9247.08301"
+     height="1641.23779"
+     x="10327.5518"
+     y="21184.2617"
+     style="font-size:12.000;fill:url(#linearGradient616);"
+     id="rect671" />
+</svg>

@@ -1,0 +1,387 @@
+gtk-alternative-button-order = 1
+gtk-button-images = 0
+
+style "default"
+{
+	xthickness = 1
+	ythickness = 1
+
+	#######################
+	# Style Properties
+	#######################
+	GtkWidget      ::interior-focus    = 1
+	GtkWidget      ::focus-padding     = 0
+	GtkWidget      ::focus-line-width  = 0
+
+	GtkButton      ::default_border    = { 0, 0, 0, 0 }
+	GtkButton      ::inner_border      = { 0, 0, 0, 0 }
+
+	GtkCheckButton ::indicator_size    = 14
+	GtkCheckButton ::indicator_spacing = 0
+
+	GtkExpander    ::expander_size     = 16
+
+	GtkTreeView    ::expander_size     = 14
+	GtkTreeView    ::odd-row-color     = "#eaf3e8"
+	GtkTreeView    ::even-row-color    = "#ffffff"
+
+	GtkRange       ::trough_border     = 0
+	GtkRange       ::trough_border     = 0
+	GtkRange       ::stepper_size      = 16
+	GtkRange       ::slider-width      = 15
+	GtkScale       ::slider-length     = 15
+
+	GtkMenuBar     ::internal-padding   = 0
+	GtkMenu        ::horizontal-padding = 0
+	GtkMenu        ::vertical-padding   = 4
+	GtkMenu        ::horizontal-offset  = 0
+	GtkMenu        ::vertical-offset    = 0
+	GtkMenuItem    ::horizontal-padding = 10
+#	GtkMenuItem    ::horizontal-padding = 2
+#	GtkMenuItem    ::toggle-spacing     = 4
+	
+	GtkToolbar     ::button-relief     = GTK_RELIEF_NORMAL
+
+	WnckTasklist   ::fade-overlay-rect = 0
+
+	GtkEntry       ::inner_border = { 1, 1, 1, 1 }
+	GtkEntry       ::honors-transparent-bg-hint = 1
+
+	GtkScrollbar   ::min_slider_length = 30
+#	GtkScrollbar   ::has-backward-stepper           = 0
+#	GtkScrollbar   ::has-secondary-forward-stepper  = 0
+#	GtkScrollbar   ::has-secondary-backward-stepper = 1
+#	GtkScrollbar   ::has-forward-stepper            = 1
+
+	####################
+	# Color Definitions
+	####################
+	bg[NORMAL] = "#ededed"
+#	bg[SELECTED] = { 0.714, 0.835, 0.996 }
+	bg[INSENSITIVE] = "#ededed"
+	bg[ACTIVE] = { 0.749, 0.749, 0.749 }
+	bg[PRELIGHT] = { 0.902, 0.902, 0.902 }
+
+	base[NORMAL] = { 1.000, 1.000, 1.000 }
+#	base[SELECTED] = { 0.714, 0.835, 0.996 }
+	base[INSENSITIVE] = { 0.902, 0.902, 0.902 }
+	base[ACTIVE] = { 0.714, 0.835, 0.996 }
+	base[PRELIGHT] = { 0.714, 0.835, 0.996 }
+
+	text[NORMAL] = { 0.000, 0.000, 0.000 }
+	text[SELECTED] = { 1.000, 1.000, 1.000 }
+	text[INSENSITIVE] = { 0.749, 0.749, 0.749 }
+	text[ACTIVE] = { 1.000, 1.000, 1.000 }
+	text[PRELIGHT] = { 1.000, 1.000, 1.000 }
+
+	fg[NORMAL] = { 0.000, 0.000, 0.000 }
+	fg[SELECTED] = { 1.000, 1.000, 1.000 }
+	fg[INSENSITIVE] = { 0.749, 0.749, 0.749 }
+	fg[ACTIVE] = { 0.000, 0.000, 0.000 }
+	fg[PRELIGHT] = { 0.000, 0.000, 0.000 }
+
+	engine "macstyle" {
+#		themestyle = 0 #0-blue, 1-graphite
+		menubarstyle = 2
+		animation = TRUE
+		radius = 3.0
+	}
+}
+
+style "focus" = "default"
+{
+	GtkWidget::interior-focus = 0
+	GtkWidget::focus-padding = 0
+	GtkWidget::focus-line-width = 3
+}
+
+style "scale" = "focus" {
+	GtkRange::slider_width = 18
+	engine "macstyle" {
+		hint = "scale"
+	}
+}
+
+style "vscale" = "scale" {
+	engine "macstyle" {
+		hint = "vscale"
+	}
+}
+
+style "hscale" = "scale" {
+	engine "macstyle" {
+		hint = "hscale"
+	}
+}
+
+style "scrollbar" = "default" {
+	engine "macstyle" {
+		hint = "scrollbar"
+	}
+}
+
+style "hscrollbar" = "scrollbar" {
+	engine "macstyle" {
+		hint = "hscrollbar"
+	}
+}
+
+style "vscrollbar" = "scrollbar" {
+	engine "macstyle" {
+		hint = "vscrollbar"
+	}
+}
+
+style "statusbar" = "default" {
+	engine "macstyle" {
+		hint = "statusbar"
+	}
+}
+
+style "combo" = "focus" {
+	engine "macstyle" {
+		hint = "combo"
+	}
+}
+
+style "combobox" = "focus" {
+	xthickness = 5
+	GtkComboBox::appears-as-list = 0
+	engine "macstyle" {
+		hint = "combobox"
+	}
+}
+
+style "comboboxentry" = "focus" {
+	GtkComboBox::appears-as-list = 1
+	engine "macstyle" {
+		hint = "comboboxentry"
+	}
+}
+
+style "optionmenu" = "focus"
+{
+	xthickness = 3
+}
+
+style "menubar" = "default" {
+	engine "macstyle" {
+		hint = "menubar"
+	}
+}
+
+style "menu" = "default" {
+	xthickness = 0
+	ythickness = 0
+	engine "macstyle" {
+		radius = 0.0
+	}
+}
+
+style "menu_item" = "default" {
+	xthickness = 0
+	ythickness = 0
+	fg[PRELIGHT] = "#ffffff"
+}
+
+# This style is there to modify the separator menu items. The goals are:
+# 1. Get a specific height.
+# 2. The line should go to the edges (ie. no border at the left/right)
+style "separator_menu_item" = "default" {
+	xthickness = 0
+	ythickness = 0
+
+	GtkSeparatorMenuItem::horizontal-padding = 0
+	GtkWidget::wide-separators = 1
+	GtkWidget::separator-width = 1
+	GtkWidget::separator-height = 12
+}
+
+style "treeview" = "default" {
+	engine "macstyle" {
+		hint = "treeview"
+	}
+}
+
+style "treeview_header" = "default" {
+	engine "macstyle" {
+		hint = "treeview-header"
+	}
+}
+
+style "clist" = "default" {
+	engine "macstyle" {
+		hint = "clist"
+	}
+}
+
+style "progressbar" = "default" {
+	xthickness = 0
+	ythickness = 0
+	engine "macstyle" {
+		hint = "progressbar"
+	}
+}
+
+style "entry" = "focus"
+{
+	xthickness = 2
+	ythickness = 2
+	base[INSENSITIVE] = "#ffffff"
+}
+
+style "spinbutton" = "entry" {
+	engine "macstyle" {
+		hint = "spinbutton"
+	}
+}
+
+style "notebook" = "focus"
+{
+	xthickness = 3
+	ythickness = 0
+}
+
+style "radio" = "focus"
+{
+	GtkCheckButton::indicator_size = 15
+}
+
+style "frame" = "default"
+{
+	xthickness = 2
+	ythickness = 2
+}
+
+style "datepicker" = "default"
+{
+	xthickness = 3
+	ythickness = 3
+	base[INSENSITIVE] = "#ffffff"
+}
+
+style "calendar" = "default"
+{
+	GtkWidget::focus_padding = 1
+	GtkWidget::focus-line-width = 1
+	base[SELECTED] = "#3875d7" # deepsky
+}
+
+style "filechooser-pane" = "default"
+{
+	GtkPaned::handle-size = 1
+}
+
+style "colorscale" = "scale"
+{
+	GtkRange::slider-width = 13
+	GtkScale::slider-length = 10
+}
+
+style "viewport" = "default"
+{
+	xthickness = 0
+	ythickness = 0
+}
+
+style "tooltips"
+{
+	bg[NORMAL] = "#fefec9"
+}
+
+style "filechooser-dialog" = "default"
+{
+	GtkDialog::content-area-border = 0
+	GtkDialog::content-area-spacing = 1
+	GtkDialog::button-spacing = 8
+	GtkDialog::action-area-border = 9
+}
+
+style "pagesetup-unix-dialog" = "default"
+{
+	GtkDialog::content-area-border = 15
+	GtkDialog::content-area-spacing = 15
+}
+
+style "print-unix-dialog" = "default"
+{
+	GtkDialog::content-area-border = 15
+	GtkDialog::content-area-spacing = 0
+}
+
+style "color-dialog" = "default"
+{
+	GtkDialog::content-area-border = 0
+}
+
+###############################################################################
+# The following part of the gtkrc applies the different styles to the widgets.
+###############################################################################
+
+# The default style is applied to every widget
+class "GtkWidget" style "default"
+
+class "GtkButton"       style "focus"
+class "GtkExpander"     style "focus"
+class "GtkGroupBox"  	style "focus"
+class "GtkScrolledWindow" style "focus"
+
+class "GtkSearchEntry"  style "entry"
+class "GtkSpinButton"   style "spinbutton"
+class "GtkScale"        style "scale"
+class "GtkVScale"       style "vscale"
+class "GtkHScale"       style "hscale"
+class "GtkColorScale"   style "colorscale"
+class "GtkScrollbar"    style "scrollbar"
+class "GtkHScrollbar"   style "hscrollbar"
+class "GtkVScrollbar"   style "vscrollbar"
+class "GtkNotebook"     style "notebook"
+class "GtkRadioButton"  style "radio"
+class "GtkFrame"        style "frame"
+class "GtkDatePicker"	style "datepicker"
+class "GtkCalendar"  	style "calendar"
+class "GtkFileChooserDialog" style "filechooser-dialog"
+class "GtkPageSetupUnixDialog" style "pagesetup-unix-dialog"
+class "GtkPrintUnixDialog" style "print-unix-dialog"
+class "GtkColorSelectionDialog" style "color-dialog"
+
+widget_class "*<GtkCombo>*" style "combo"
+widget_class "*<GtkComboBox>*" style "combobox"
+widget_class "*<GtkComboBoxEntry>*" style "comboboxentry"
+
+widget_class "*<GtkOptionMenu>" style "optionmenu"
+
+widget_class "*<GtkMenuBar>*" style "menubar"
+widget_class "*<GtkMenu>*" style "menu"
+widget_class "*<GtkMenuItem>*" style "menu_item"
+widget_class "*<GtkSeparatorMenuItem>*" style "separator_menu_item"
+
+widget_class "*<GtkTreeView>" style "treeview"
+widget_class "*<GtkCList>" style "clist"
+
+# Treeview headers (and similar stock GTK+ widgets)
+widget_class "*<GtkTreeView>.<GtkButton>*" style "treeview_header"
+widget_class "*<GtkCTree>.<GtkButton>*" style "treeview_header"
+widget_class "*<GtkList>.<GtkButton>*" style "treeview_header"
+widget_class "*<GtkCList>.<GtkButton>*" style "treeview_header"
+
+widget_class "*<GtkStatusbar>" style "statusbar"
+
+widget_class "*<GtkProgress>" style "progressbar"
+
+widget_class "*<GtkFileChooserDialog>*<GtkPaned>" style "filechooser-pane"
+
+widget_class "*<GtkGroupBox>*<GtkButton>" style "default"
+
+widget_class "*<GtkScrolledWindow>*<GtkViewport>" style "viewport"
+
+widget "gtk-tooltip*" style "tooltips"
+
+##########################################################################
+widget_class "*<GtkEntry>*"  style "entry"
+##########################################################################
+
+# Workaround for the evolution ETable (bug #527532)
+widget_class "*.ETable.ECanvas" style "treeview_header"
+# Workaround for the evolution ETree
+widget_class "*.ETree.ECanvas" style "treeview_header"
