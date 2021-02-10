@@ -8,7 +8,7 @@ You will find here a collection of various wallpapers, themes, icons and sounds 
 
 # Can I use themes from here on my actual Linux Distro?
 From initial testing with Ubuntu 18.04 and Kubuntu 20.04, it seems like it is possible. You might run into some compatibility issues with GTK2 themes.
-If someone wants to, feel fry to try making this into a real thing.
+If someone wants to, feel free to try making this into a real thing.
 
 # Sounds folder is nowhere to be found.
 Red Star uses uses standard KDE 4 sounds, nothing out of the ordiary or impossible to get. That's why I didn't included them in here.
