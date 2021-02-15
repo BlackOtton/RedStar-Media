@@ -18,4 +18,4 @@ I removed every metadata from them that I could find, and extracted the files af
 Feel free to check them for yourself, if you want to be extra safe, use a VM.
 
 # What's the license for this?
-Well there isn't one (for now). All of these files are not mine, I just extracted them from obsure OS. Therefore, I decided to (for now) leave this repository without any License.
+Well there isn't one (for now). All of these files are not mine, I just extracted them from an obscure OS. Therefore, I decided to (for now) leave this repository without any License.
