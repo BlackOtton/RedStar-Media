@@ -11,7 +11,7 @@ From initial testing with Ubuntu 18.04 and Kubuntu 20.04, it seems like it is po
 If someone wants to, feel free to try making this into a real thing.
 
 # Sounds folder is nowhere to be found.
-Red Star uses uses standard KDE 4 sounds, nothing out of the ordinary or impossible to get. That's why I didn't included them in here.
+Red Star uses standard KDE 4 sounds, nothing out of the ordinary or impossible to get. That's why I didn't include them in here.
 
 # Are those files safe to use?
 I removed every metadata from them that I could find, and extracted the files after using ![Tools for Red Star OS](https://github.com/takeshixx/redstar-tools).
