@@ -14,7 +14,7 @@ If someone wants to, feel free to try making this into a real thing.
 Red Star uses uses standard KDE 4 sounds, nothing out of the ordinary or impossible to get. That's why I didn't included them in here.
 
 # Are those files safe to use?
-I removed every metadata from them that I could find, and extracted the files after using ![Tools for Red Star OS](https://github.com/takeshixx/redstar-tools).
+I removed every metadata from them that I could find, and extracted the files after using [Tools for Red Star OS](https://github.com/takeshixx/redstar-tools).
 Feel free to check them for yourself, if you want to be extra safe, use a VM.
 
 # What's the license for this?
